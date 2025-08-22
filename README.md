@@ -8,6 +8,7 @@ This codes belongs to august month 2025
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/august-2025-/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ This codes belongs to august month 2025
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saieshwari715/august-2025-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
