@@ -10,6 +10,7 @@ This codes belongs to august month 2025
 | [0075-sort-colors](https://github.com/Saieshwari715/august-2025-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Saieshwari715/august-2025-/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This codes belongs to august month 2025
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saieshwari715/august-2025-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Saieshwari715/august-2025-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Saieshwari715/august-2025-/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ This codes belongs to august month 2025
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Saieshwari715/august-2025-/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Saieshwari715/august-2025-/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
