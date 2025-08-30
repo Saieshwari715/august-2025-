@@ -43,8 +43,14 @@ This codes belongs to august month 2025
 | ------- |
 | [0050-powx-n](https://github.com/Saieshwari715/august-2025-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Saieshwari715/august-2025-/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Saieshwari715/august-2025-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Saieshwari715/august-2025-/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Saieshwari715/august-2025-/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Saieshwari715/august-2025-/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
