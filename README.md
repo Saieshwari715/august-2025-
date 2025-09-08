@@ -11,10 +11,12 @@ This codes belongs to august month 2025
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/august-2025-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Saieshwari715/august-2025-/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saieshwari715/august-2025-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/august-2025-/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saieshwari715/august-2025-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
